@@ -1,2 +1,1 @@
-# Dead-Shot
-Dead Shot develpoed by pygame
+The title of the project is “Dead Shot”, which involves a single player mode. The main objective is shooting down a rock into a several small pieces it gets demolished. The player can move around and accelerate. Player can fire missiles. When a missile hits a big rock, it breaks it into two medium sized ones. Your score goes up by 20.- When a missile hits a medium sized rock, it breaks it into two small ones. Your score goes up by 50.- When a missile hits a small rock, it destroys it completely and your score goes up by 100. The game gets more difficult for each 20 seconds you survive. The player has 3 lives, which are displayed at the top left corner. 
